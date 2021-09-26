@@ -75,7 +75,7 @@ footer {
 }
 
 header {
-    position: fixed;
+    position: absolute;
     top: 0;
     width: 100%;
     height: 100px;
@@ -205,6 +205,18 @@ a[href^="#"]:hover::before {
 
 
 /*--- END OF GRAPHIC DESIGN PAGE SETTINGS ---*/
+
+
+/*--- COMPETITOR ANALYSIS PAGE SETTINGS ---*/
+
+.compA0>img {
+    position: relative;
+    height: 100%;
+    padding: 25px 300px;
+}
+
+
+/*--- END OF COMPETITOR ANALYSIS PAGE SETTINGS --*/
 
 
 /*--- WDD PAGE SETTINGS ---*/
