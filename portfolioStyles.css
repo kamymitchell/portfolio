@@ -153,6 +153,14 @@ footer li {
 
 /*--- GRAPHIC DESIGN PAGE SETTINGS ---*/
 
+
+/* #discover {
+    position: relative;
+    padding: 5px;
+    height: 100%;
+    width: 40%;
+} */
+
 #compA {
     position: relative;
     height: 50%;
@@ -175,6 +183,24 @@ footer li {
     position: relative;
     height: 38%;
     padding: 5px 7px;
+}
+
+#ds {
+    position: relative;
+    height: 68%;
+    padding: 5px;
+}
+
+#dsys {
+    position: relative;
+    height: 45%;
+    padding: 5px;
+}
+
+#quickFacts {
+    position: relative;
+    height: 86%;
+    padding: 5px;
 }
 
 
