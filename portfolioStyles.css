@@ -153,13 +153,11 @@ footer li {
 
 /*--- GRAPHIC DESIGN PAGE SETTINGS ---*/
 
-
-/* #discover {
+#discover {
     position: relative;
     padding: 5px;
-    height: 100%;
-    width: 40%;
-} */
+    height: 50%;
+}
 
 #compA {
     position: relative;
